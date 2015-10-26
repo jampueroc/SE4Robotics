@@ -7,6 +7,7 @@ categories: Reporte
 ---
 # Iteración 1
 En esta iteración se pretende implementar la interfaz gráfica, de manera no completamente automatizada.
+
 ## Semana 1: How to pharo / basic examples Roassal
 
 En esta semana se realizarán ejemplos de Pharo, entendiendo el funcionamiento básico de este framework. Luego, se trabajará con Roassal para aprender la visualización de datos.
@@ -21,6 +22,7 @@ Se espera en esta semana tener el suficiente conocimiento para realizar los grá
 
 # Iteración 2
 Agregar funcionalidades y automatizar los elementos restantes.
+
 ## Semana 4: Agregar funcionalidad interfaz-ROS.
 
 Se agregarán las funcionalidades pendientes entre la relación de la interfaz y ROS, trabajando con los datos obtenidos desde ros topic u otros comandos.
