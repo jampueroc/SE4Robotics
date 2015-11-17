@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Cronograma proyecto"
-date:   2015-10-26 09:00:00
+date:   2015-11-17 09:00:00
 author: Pablo - Jorge
-categories: Reporte
+categories: Cronograma Actualizado
 ---
 # Iteración 1
 En esta iteración se pretende implementar la interfaz gráfica, de manera no completamente automatizada.
@@ -12,25 +12,28 @@ En esta iteración se pretende implementar la interfaz gráfica, de manera no co
 
 En esta semana se realizarán ejemplos de Pharo, entendiendo el funcionamiento básico de este framework. Luego, se trabajará con Roassal para aprender la visualización de datos.
 
-## Semana 2: Implementar interfaz gráfica básica
-
-Se implementará la estructura básica de la interfaz, agregando funcionalidades mínimas de interacción en forma de prueba.
-
-## Semana 3: Agregar gráfica básica.
+## Semana 2: Agregar gráfica básica.
 
 Se espera en esta semana tener el suficiente conocimiento para realizar los gráficos a utilizar, unirlos a la interfaz y verificar su funcionamiento.
+
+## Semana 3: Implementar interfaz gráfica básica
+
+Funcionalidades mínimas de interacción en forma de prueba.
+
+
 
 # Iteración 2
 Agregar funcionalidades y automatizar los elementos restantes.
 
-## Semana 4: Agregar funcionalidad interfaz-ROS.
+## Semana 4: Visualización de data. (Info de nodo/topicos)
+
+En esta semana se realizarán los cambios necesarios para la visualización de la información adicional de los nodos y tópicos, pudiendo ver al final de esta los datos que se transmiten y los tipos de datos.Se implementará la estructura básica de la interfaz
+
+
+## Semana 5: Agregar funcionalidad interfaz-ROS.
 
 Se agregarán las funcionalidades pendientes entre la relación de la interfaz y ROS, trabajando con los datos obtenidos desde ros topic u otros comandos.
 Esto se hará de manera manual inicialmente.
-
-## Semana 5: Visualización de data. (Info de nodo/topicos)
-
-En esta semana se realizarán los cambios necesarios para la visualización de la información adicional de los nodos y tópicos, pudiendo ver al final de esta los datos que se transmiten y los tipos de datos.
 
 ## Semana 6: Agrupar tópicos, nodos .  Investigación de mensajes. (**** tópicos, nodos)
 
