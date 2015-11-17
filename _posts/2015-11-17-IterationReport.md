@@ -10,7 +10,7 @@ categories: Reporte Iteración 1
  
  En este reporte se pretende mostrar los avances logrados durante la primera iteración del proyecto.
  
- #Problema y solución
+# Problema y solución
  
  Es posible revisar el problema inicial y la solución propuesta para este en http://jampueroc.github.io/SE4Robotics/reporte/2015/09/26/Report .
  
@@ -30,7 +30,7 @@ Durante esta semana aunque no se realizó un avance en el código de la aplicaci
 
 ## Segunda Semana
 
-La idea de esta semana era poder realizar el diseño básico de la interfaz (ventana, botones, menu ,etc.) y sus funcionalidades mínimas pero, debido a la lógica de la linea de trabajajo, se terminó realizando el trabajo correspondiente a la semana siguiente que correspondia a la creación del grafo de manera manual. Esto consiste en la creación del gráfico nodos-tópicos de manera autómatica, ingresando de los datos necesitados (nodos y tópicos). 
+La idea de esta semana era poder realizar el diseño básico de la interfaz (ventana, botones, menú,etc.) y sus funcionalidades mínimas pero, debido a la lógica de la linea de trabajajo, se terminó realizando el trabajo correspondiente a la semana siguiente que correspondia a la creación del grafo de manera manual. Esto consiste en la creación del gráfico nodos-tópicos de manera autómatica, ingresando de los datos necesitados (nodos y tópicos). 
 
 
 ### Problemas encontrados
