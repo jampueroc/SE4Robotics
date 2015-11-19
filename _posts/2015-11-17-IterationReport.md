@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Inicio proyecto RQT_GRAPH"
+title:  "Inicio proyecto RQT-GraPharo"
 date:   2015-11-17 09:00:00
 author: Pablo - Jorge
-categories: Reporte Iteración 1 RQT-GraPharo
+categories: Reporte Iteración 1 
 ---
  
 # Introducción
