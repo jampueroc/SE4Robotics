@@ -22,8 +22,11 @@ categories: Reporte Final
 ## Botón nodos /tópicos.
 
 ![Interfaz]({{site.baseurl}}/assets/reports/032.png )
+
 Se crearon estos botones para resolver el problema de los nodos/tópicos en exceso. Al hacer click sobre estos se
-despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee. Adicionalmente se agregó un campo de texto para realizar búsquedas en la lista de nodos/tópicos y facilitar la visualización de la lista.
+despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee.
+
+Adicionalmente se agregó un campo de texto para realizar búsquedas en la lista de nodos/tópicos y facilitar la visualización de la lista.
 ![Interfaz nodos/tópicos a esconder]({{site.baseurl}}/assets/reports/036.png )
 
 ![Interfaz después de ocultar]({{site.baseurl}}/assets/reports/037.png )
@@ -32,7 +35,7 @@ Al hacer esto la gráfica se actualiza, permitiendo visualizar específicamente 
 
 ## Botón refresh
 
-Este botón permite realizar la actualización de los elementos del grafo sin tener la necesidad de cerrar y volver a abrir la aplicación.
+Este botón permite realizar la actualización de los elementos del grafo sin tener la necesidad de cerrar y volver a abrir la aplicación. Además actualiza la información de nodos y tópicos desde ROS.
 
 
 ## Gráfico
