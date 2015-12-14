@@ -20,16 +20,16 @@ categories: Reporte Final
  A continuación se describirán los distintos elementos que posee la aplicación
  
 ## Botón nodos /tópicos.
-![Alt text](https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/032.png "Title of your image" )
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/032.png" width="48">
+
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/gh-pages/assets/reports/032.png" width="48">
 
 Se crearon estos botones para resolver el problema de los nodos/tópicos en exceso. Al hacer click sobre estos se
 despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee.
 
 Adicionalmente se agregó un campo de texto para realizar búsquedas en la lista de nodos/tópicos y facilitar la visualización de la lista.
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/036.png" width="48">
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/036.png" width="48">
 
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/037.png" width="48">
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/037.png" width="48">
 
 Al hacer esto la gráfica se actualiza, permitiendo visualizar específicamente lo que el usuario quiere ver.
 
@@ -45,14 +45,17 @@ El gráfico presenta varias funcionalidades extras:
 1. Es posible seleccionar un nodo y moverlo dentro del área del grafo.
 1. Se puede cambiar el tamaño del grafo.
 1. Se puede hacer click en un nodo y se abrirá una ventana que mostrará el nombre del nodo con los publishers y subscribers.
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/031.png" width="48">
+
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/031.png" width="48">
+
 1. Al hacer click en un tópico se puede ver el nombre del tópico y la información del último segundo que fue enviada a través de él.
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/039.png" width="48">
+
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/039.png" width="48">
 1. Se agregó coloración a los nodos según la cantidad de publishers o subscribers (el usuario puede elegir y cambiar según desee).
 1. Se agregó una leyenda explicativa sobres colores y elementos del grafo.
 1. Se agregó un sistema de selección que permite esconder/visualizar nombres de nodos al hacer click.
-  
-<img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/045.png" width="48">
+
+<img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/045.png" width="48">
 
 #Limitaciones
 
