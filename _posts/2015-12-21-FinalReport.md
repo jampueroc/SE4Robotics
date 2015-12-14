@@ -21,12 +21,14 @@ categories: Reporte Final
  
 ## Botón nodos /tópicos.
 
+[Interfaz]({{site.baseurl}}/assets/reports/032.png )
 Se crearon estos botones para resolver el problema de los nodos/tópicos en exceso. Al hacer click sobre estos se
-despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee. 
+despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee. Adicionalmente se agregó un campo de texto para realizar búsquedas en la lista de nodos/tópicos y facilitar la visualización de la lista.
+[Interfaz nodos/tópicos a esconder]({{site.baseurl}}/assets/reports/036.png )
+
+[Interfaz después de ocultar]({{site.baseurl}}/assets/reports/037.png )
 
 Al hacer esto la gráfica se actualiza, permitiendo visualizar específicamente lo que el usuario quiere ver.
-
-Adicionalmente se agregó un campo de texto para realizar búsquedas en la lista de nodos/tópicos y facilitar la visualización de la lista.
 
 ## Botón refresh
 
@@ -40,10 +42,13 @@ El gráfico presenta varias funcionalidades extras:
 1. Es posible seleccionar un nodo y moverlo dentro del área del grafo.
 1. Se puede cambiar el tamaño del grafo.
 1. Se puede hacer click en un nodo y se abrirá una ventana que mostrará el nombre del nodo con los publishers y subscribers.
+  [Información nodos]({{site.baseurl}}/assets/reports/031.png )
 1. Al hacer click en un tópico se puede ver el nombre del tópico y la información del último segundo que fue enviada a través de él.
+  [Información tópicos]({{site.baseurl}}/assets/reports/039.png )
 1. Se agregó coloración a los nodos según la cantidad de publishers o subscribers (el usuario puede elegir y cambiar según desee).
 1. Se agregó una leyenda explicativa sobres colores y elementos del grafo.
 1. Se agregó un sistema de selección que permite esconder/visualizar nombres de nodos al hacer click.
+ [Interfaz sin nombres]({{site.baseurl}}/assets/reports/045.png )
 
 #Limitaciones
 
