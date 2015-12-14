@@ -21,7 +21,7 @@ categories: Reporte Final
  
 ## Botón nodos /tópicos.
 
-![Interfaz]({{site.baseurl}}/assets/reports/032.png )
+![Interfaz]({{site.baseurl}}/assets/reports/032.png =100x20)
 
 Se crearon estos botones para resolver el problema de los nodos/tópicos en exceso. Al hacer click sobre estos se
 despliegan los elementos correspondientes en una nueva ventana que permite seleccionar uno o varios nodos/tópicos y ocultarlos o mostrarlo según se desee.
