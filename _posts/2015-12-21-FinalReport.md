@@ -49,9 +49,11 @@ El gráfico presenta varias funcionalidades extras:
 
 <img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/gh-pages/assets/reports/031.png" width="500">
 
+
 * Al hacer click en un tópico se puede ver el nombre del tópico y la información del último segundo que fue enviada a través de él.
 
 <img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/gh-pages/assets/reports/039.png" width="500">
+
 * Se agregó coloración a los nodos según la cantidad de publishers o subscribers (el usuario puede elegir y cambiar según desee).
 * Se agregó una leyenda explicativa sobres colores y elementos del grafo.
 * Se agregó un sistema de selección que permite esconder/visualizar nombres de nodos al hacer click.
