@@ -20,7 +20,7 @@ categories: Reporte Final
  A continuación se describirán los distintos elementos que posee la aplicación
  
 ## Botón nodos /tópicos.
-
+![Alt text](https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/032.png "Title of your image" )
 <img src="https://github.com/jampueroc/SE4Robotics/tree/gh-pages/assets/reports/032.png" width="48">
 
 Se crearon estos botones para resolver el problema de los nodos/tópicos en exceso. Al hacer click sobre estos se
