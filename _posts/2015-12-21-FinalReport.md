@@ -56,9 +56,7 @@ El gráfico presenta varias funcionalidades extras:
 
 
 * Se agregó coloración a los nodos según la cantidad de publishers o subscribers (el usuario puede elegir y cambiar según desee).
-
 * Se agregó una leyenda explicativa sobres colores y elementos del grafo.
-
 * Se agregó un sistema de selección que permite esconder/visualizar nombres de nodos al hacer click.
 
 <img src="https://raw.githubusercontent.com/jampueroc/SE4Robotics/gh-pages/assets/reports/045.png" width="500">
